@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mosque-finder/static/css/main.e76267e5.css",
+    "main.js": "/mosque-finder/static/js/main.e1a14f0e.js",
+    "static/js/787.c931b846.chunk.js": "/mosque-finder/static/js/787.c931b846.chunk.js",
+    "index.html": "/mosque-finder/index.html",
+    "main.e76267e5.css.map": "/mosque-finder/static/css/main.e76267e5.css.map",
+    "main.e1a14f0e.js.map": "/mosque-finder/static/js/main.e1a14f0e.js.map",
+    "787.c931b846.chunk.js.map": "/mosque-finder/static/js/787.c931b846.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e76267e5.css",
+    "static/js/main.e1a14f0e.js"
+  ]
+}
